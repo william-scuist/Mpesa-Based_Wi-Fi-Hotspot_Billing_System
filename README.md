@@ -4,10 +4,10 @@ A comprehensive WiFi billing system with M-Pesa integration, loan management, an
  
 ## Screenshots
 
-![connections and payments](screenshots/Screenshot%202026-01-09%20213840.png)
+![connections and payments](https://res.cloudinary.com/dqv8dlj2s/image/upload/v1777492420/Screenshot_2026-04-29_224304_axeeat.png)
 *Dashboard view showing user connections and payments.*
 
-![Billing interface and loan options](screenshots/Screenshot%202026-01-09%20213922.png)
+![Billing interface and loan options](https://res.cloudinary.com/dqv8dlj2s/image/upload/v1777492421/Screenshot_2026-04-29_225046_ggsvly.png)
 *Billing interface with M-Pesa integration and loan options.*
 
 
@@ -399,14 +399,14 @@ For issues, check:
 <table align="center">
   <tr>
     <td align="center">
-        <img src="https://res.cloudinary.com/dqv8dlj2s/image/upload/v1772276752/IMG_20251220_111730_cqlgfo.jpg" width="750" height="250" />
+      <img src="https://res.cloudinary.com/dqv8dlj2s/image/upload/v1777492420/Screenshot_2026-04-29_224304_axeeat.png" width="750" height="250" />
 </a>
       <h4>mwakidenis</h4>
     </td>
   </tr>
 </table>
 
-<div><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2></div>
+<div><h2><img src="https://res.cloudinary.com/dqv8dlj2s/image/upload/v1777492421/Screenshot_2026-04-29_225046_ggsvly.png" width="35" height="35"> Contributors</h2></div>
 
 I extend my heartfelt gratitude for any invaluable contribution to this project! Your efforts play a pivotal role in elevating the repo to greater heights.
 
