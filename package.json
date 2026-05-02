@@ -9,7 +9,7 @@
 
   "engines": {
     "node": ">=18 <=22"
-  },
+  }, 
 
   "scripts": {
     "dev": "cd frontend && npm run dev",
